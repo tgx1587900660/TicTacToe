@@ -7,7 +7,7 @@ var winsArr = [
     [1, 4, 7],
     [2, 5, 8],
     [0, 4, 8],
-    [2, 4, 6]
+    [2, 4, 6],
 ];
 // 获取单元格
 var cells = document.querySelectorAll('.cell');
